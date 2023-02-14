@@ -21,4 +21,107 @@ Our website uses some cookies and records your IP address for the purposes of ac
 
 With your consent, JetBrains may also use cookies and your IP address to collect individual statistics and provide you with personalized offers and ads subject to the Privacy Policy and the Terms of Use. JetBrains may use third-party services for this purpose. You can adjust or withdraw your consent at any time by visiting the Opt-Out page.
 
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ * 
 
+fun main() {
+   //Tipos de variáveis: 
+    //
+    //String - armazena valores de tipo texto - dentro de ""  ==> ex: "abóbora" 
+    //Int - armazena números inteiros ==> 7042
+    //Float - armazena números reais (no geral) - necessita de um f no valor ==>72.24f
+    //Double - armazena números quebrados(de forma arredondada) ==> 7.15
+    //Long - armazena números longos ==> 54564386546546.784486
+    //Boolean - verdadeiro ou falso ==> true, false
+    /*
+    var cr7 = "Cristiano Ronaldo" 
+    var numeroChampions = 5 
+    var altura = 1.87
+
+    //Concatenação
+
+    print("O nome dele é " + cr7 + ", ele tem " + numeroChampions)
+    println(" titúlos de Champions League e ele tem " + altura + " de altura SIIIIUU eu sou u miliorr")
+
+    var laPulga = "Lionel Messi"
+    var champions = 4
+    var alturaDele = 1.02
+
+    print("O nome dele é $laPulga, ele tem $champions títulos de chamions, ")
+    println("e ele tem apenas $alturaDele de altura")
+    */
+    //Faça uma apresentação de si mesmo, usando no mínimo 
+    //5 variáveis e usando o método de concatenação
+    /*
+    val nome = "Pedro"
+    val sobrenome = "Sávio"
+    val dia = 13
+    val mes = "Março"
+    val ano = "2009" 
+
+    println("Olá, meu jovem, meu nome é $nome  $sobrenome e eu nasci no dia $dia de $mes de $ano")
+    */
+
+    //Operadores matemáticos
+    //
+    // + => adição
+    // - => subtração
+    // / => divisão
+    // * => multiplicação
+    // % => módulo - o resto de uma divisão
+
+    //println(15 % 2) 
+    //
+    //Operadores Relacionais 
+    //
+    //
+    // == => igual a...
+    // != => diferente de...
+    // > => maior que... 
+    // < => menor que...
+    // >= -> maior ou igual a...
+    // <= -> menor ou igual a...
+    
+    //Desafio Calculadora: fazer um programa que simule uma calculadora
+    //Deve ter pelo menos 2 variáveis neste cálculo
+    //
+    //o primeiro a conseguir... chocolate
+    //
+    //iremos corrigir
+    //
+    **/
+fun main(){
+    var N1=1777
+    var N2=54
+ 
+    
+    println("@ ***************---------------------*************** @")
+    println("**                                                   **")   
+    println("**                                                   **")
+    println("**                                                   **")
+    println("**                                                   **")
+    println("**                                                   **")
+    println("**               Minha Calculadora                   **")
+    println("**                                                   **")
+    println("**                                                   **")
+    println("** A adição entre 19 e 78                            **")
+    println("** O resultado da adição é: 97                       **")
+    println("**                                                   **")
+    println("** A multiplicação entre 15 e 21                     **")
+    println("** O resultado da multiplicação é: 315               **")
+    println("**                                                   **")
+    println("**                                                   **")
+    println("** A  divisão entre $N1 e $ N2                  **")
+    println("** O resultado da divisão é: + (n1 / n2)             **")
+    println("**                                                   **")
+    println("**                                                   **")
+    println("**                                                   **")
+    println("**...................................................**")
+  
+  
+  
+  
+  
+}
