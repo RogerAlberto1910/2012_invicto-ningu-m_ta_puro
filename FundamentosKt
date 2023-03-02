@@ -246,9 +246,122 @@ fun main() {
     // ganhar. As partidas já passaram, quero saber se o Brasil se classificou ou não
     // 
     //  detalhe: use os operadores lógicos
+    //**********************************************************************************************************
+    
+    fun main() {
+    println("Hello, world!!!")
+    //Laços de Repetição
+    //
+    //while - enquanto
+    //for - para
+    //do.. while faça.. enquanto
+    //repeat - repita
+ 
+    //Laço While 
+    //enquanto uma determinada condição for verdadeira, outra determinada
+    //ação será executada
+    //
+    //Estrutura do While
+    //
+    //while(condição){
+    //ação
+    //
+    //}     
+         
+     /*
+    var idade = 1
+    
+    while (idade <= 17){
+        println("$idade anos? Creça, serio")
+        idade++
+    }
+        println("Divirta-se, você cegou até aqui, você merece")
+    
+     */
+     
+     // Laço do.. while
+     // 
+     // Uma determinada ação sera executada, enquanto outra determinada condição for
+     // verdadeira
+     // 
+     // Estrutura do do.. While
+     // 
+     // do{
+     // ação
+     // } while(condição)
+     
+     /*
+     var idade = 1
+    do{
+        println("$idade anos? Creça, séro")
+        idade++
+    }while(idade > 17)
+    */
     
     
+    //Eercício -> Não é ano bissexto, por tanto o ano possui 365, precisa ser exibido no 
+    //console os números de 1 a 365, usando no mínimo uma variável, usando os Laços While e
+    //do.. while
+   
+    // Divita-se
+     
+   var idade = 23
     
+    while (idade < 99){
+        println("$idade anos? Aproverite vc ainda é novo")
+        idade++
+    }
+        println("Divirta-se, você cegou até aqui, você merece")
+  
+  
+  
+  
+   var number = 2
+    do{
+        println(number)
+        number++
+    }while(number > 97)
+  
+  
+  
+  
+     
+     
+     
+     
+}    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
     
     
     
