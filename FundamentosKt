@@ -511,9 +511,62 @@ fun main(){
      }
      
      
+    //********************************************// 
+     
+     /**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */ 
+
+ /*
+fun main() {
+    var pessoa1= Pessoa()
+    
+    println ("Prontuario:" )
+    
+   pessoa1.nome = "Yuri Guedes"
+    println ("nome :"+pessoa1.nome)
+   pessoa1.idade = 23
+    println ("idade :"+pessoa1.idade)
+   pessoa1.alergias = "não"
+    println ("alergias :"+pessoa1.alergias)
+   pessoa1.medicamento = "não"
+    println ("mediacamento :"+pessoa1.medicamento)
+   pessoa1.altura = 1.73
+    println ("altura :"+pessoa1.altura)
+    
+}
+    
+    
+class Pessoa(){
+     //declaração de atributos para a classe pessoa
+     var nome = ""
+     var idade=0
+     var altura = 0.0
+     var alergias ="String"
+     var medicamento ="String "   
+     var peso =0.0 
+     
+
+}
+     
+     /*
+     
+     
+
+
+        
+        
+        
+        
+        
+        
+        
+    
      
      
      
+
      
      
 
