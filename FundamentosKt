@@ -556,8 +556,104 @@ class Pessoa(){
 
 
         
+//**************************************************************************//        
         
         
+        
+fun main() {
+ 
+      var jogador1 = JogadorDeFutebol("Cássio", 12 , "GL") 
+      
+      println(jogador1.nome)
+      println(jogador1.numeroDaCamisa)    
+      println(jogador1.posicao)
+                                                                    
+      var jogador2 = JogadorDeFutebol("Fagner", 23 , "LD")
+      println(jogador2.nome)
+      println(jogador2.numeroDaCamisa)    
+      println(jogador2.posicao)
+      
+      var jogador3 = JogadorDeFutebol("Gil", 4 , "ZAG")
+      println(jogador3.nome)
+      println(jogador3.numeroDaCamisa)    
+      println(jogador3.posicao)
+      
+      var jogador4 = JogadorDeFutebol("B. Mendez", 22 , "ZAG")
+      println(jogador4.nome)
+      println(jogador4.numeroDaCamisa)    
+      println(jogador4.posicao)
+     
+      var jogador5 = JogadorDeFutebol("F. Santos", 6 , "LE")
+      println(jogador5.nome)
+      println(jogador5.numeroDaCamisa)    
+      println(jogador5.posicao)
+      
+      var jogador6 = JogadorDeFutebol("F. Vera", 5 , "VOL")
+      println(jogador6.nome)
+      println(jogador6.numeroDaCamisa)    
+      println(jogador6.posicao)
+      
+      var jogador7 = JogadorDeFutebol("Giuliano", 20 , "MC")
+      println(jogador7.nome)
+      println(jogador7.numeroDaCamisa)    
+      println(jogador7.posicao)
+      
+      var jogador8 = JogadorDeFutebol("Paulinho", 15 , "MC")
+      println(jogador8.nome)
+      println(jogador8.numeroDaCamisa)    
+      println(jogador8.posicao)
+      
+      var jogador9 = JogadorDeFutebol("Renato Augusto", 8 , "MEI")
+      println(jogador9.nome)
+      println(jogador9.numeroDaCamisa)    
+      println(jogador9.posicao)
+      
+      var jogador10 = JogadorDeFutebol("Roger Guedes", 10 , "SA")
+      println(jogador10.nome)
+      println(jogador10.numeroDaCamisa)    
+      println(jogador10.posicao)
+      
+      var jogador11 = JogadorDeFutebol("Yuri Alberto", 9 , "ATA")
+      println(jogador11.nome)
+      println(jogador11.numeroDaCamisa)    
+      println(jogador11.posicao)
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    // Exercício
+    
+    
+    
+    
+    
+}
+
+class JogadorDeFutebol(var nome: String,
+                      var numeroDaCamisa: Int,
+                      var posicao: String,){
+    
+    
+    
+    
+    
+    
+ 
+    
+    
+    
+}    
         
         
         
